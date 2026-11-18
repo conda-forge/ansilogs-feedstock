@@ -1,5 +1,5 @@
 context:
-  version: "1.1.0"
+  version: "1.2.0"
 
 package:
   name: ansilogs
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/ansilogs/ansilogs-${{ version }}.tar.gz
-  sha256: 15f0e3581f9e14d0ddadd3795408878ef6d9023966607abadfa718f24baff882
+  sha256: 55da304534b6853a002585d747add65ae6fefa6cd14da30e1349d649de5a883c
 
 build:
   number: 0
